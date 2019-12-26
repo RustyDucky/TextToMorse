@@ -1,0 +1,10 @@
+[package]
+name = "TextToMorse"
+version = "0.1.0"
+authors = ["RustyDucky"]
+edition = "2019"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+text_io = "0.1.7"
